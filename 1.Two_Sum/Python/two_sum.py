@@ -1,5 +1,3 @@
-from itertools import product
-
 class Solution:
 
     def twoSum(self, nums, target):
